@@ -1,5 +1,6 @@
 #EmailSystem
-#Apache– this is the core program that performs the hosting services. Apache program is very efficient in hosting HTML files as well as other static web documents.
+#This is the application and Steps to run our website locally
+Apache– this is the core program that performs the hosting services. Apache program is very efficient in hosting HTML files as well as other static web documents.
 
 MySQL– it offers a database that will contain all your web content. Dynamic web pages need to store data from time to time thus require a database. Examples of such data include usernames, passwords, and emails.
 
@@ -26,3 +27,5 @@ You can begin configuring your MySQL databases by opening the phpMyAdmin panel i
 Step 5: Setting the Site to be Publicly Visible
 
 At this stage, your website is accessible just to the computer in which you installed the WebServer application. This can be great if you want to use the Web Server for web development and testing practices. In this case, however, you want the rest of the world to see the contents of your site. To make it public, hit the WampServer icon and select the “Put Online” option.
+#To access our website just click the link below
+#waddlesmail.infinityfreeapp.com
